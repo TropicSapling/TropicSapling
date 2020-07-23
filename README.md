@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://tropicsapling.github.io/img/saplings.jpg)
+![](saplings-profile.jpg)
